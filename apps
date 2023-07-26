@@ -1,9 +1,9 @@
 {
   "apps":[
     {
-    "name":"",
-    "image":"",
-    "url":""
+    "name":"Parole Alerta",
+    "image":"https://archive.apklis.cu/application/icon/com.drecom.parolealerta-v1.png_140",
+    "url":"https://apklis.cu/application/com.drecom.parolealerta"
     }
   ]
 }
