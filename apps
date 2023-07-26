@@ -4,6 +4,16 @@
     "name":"Parole Alerta",
     "image":"https://archive.apklis.cu/application/icon/com.drecom.parolealerta-v1.png_140",
     "url":"https://apklis.cu/application/com.drecom.parolealerta"
+    },    
+    {
+    "name":"MiCatálogoPro",
+    "image":"https://archive.apklis.cu/application/icon/com.drecom.micatalogopro-v1.png_140",
+    "url":"https://apklis.cu/application/com.drecom.micatalogopro"
+    },    
+    {
+    "name":"SearchLink",
+    "image":"https://archive.apklis.cu/application/icon/com.drecom.searchlink-v1.png_140",
+    "url":"https://apklis.cu/application/com.drecom.searchlink"
     }
   ]
 }
