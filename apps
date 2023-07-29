@@ -1,6 +1,11 @@
 {
   "apps":[
     {
+    "name":"Tasa de cambio",
+    "image":"https://archive.apklis.cu/application/icon/com.drecom.tasadecambio-v1.png_140",
+    "url":"https://apklis.cu/application/com.drecom.tasadecambio"
+    },
+    {
     "name":"Parole Alerta",
     "image":"https://archive.apklis.cu/application/icon/com.drecom.parolealerta-v1.png_140",
     "url":"https://apklis.cu/application/com.drecom.parolealerta"
