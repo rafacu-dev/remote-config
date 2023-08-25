@@ -1,6 +1,11 @@
 {
     "videos":[
       {
+      "name":"Como tener catálogos de WhatsApp para nuestro negocio desde Cuba",
+      "image":"https://raw.githubusercontent.com/rafacu-dev/remote-config/main/images/cat.png",
+      "url":"https://www.youtube.com/watch?v=iLs2yx-Ki70"
+      },
+      {
       "name":"Rutina básica de SKINCARE matutino 🌤 en Cuba",
       "image":"https://raw.githubusercontent.com/rafacu-dev/remote-config/main/images/skincare.png",
       "url":"https://www.youtube.com/watch?v=8-tKJm5RTeQ&t=17s"
