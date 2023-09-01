@@ -1,6 +1,11 @@
 {
     "videos":[
       {
+      "name":"Un día conmigo en Santa Lucía ⛱🦀🌞El pueblo donde crecí",
+      "image":"https://raw.githubusercontent.com/rafacu-dev/remote-config/main/images/playa.png",
+      "url":"https://www.youtube.com/watch?v=HhwV2nZ14aA&t=632s"
+      },
+      {
       "name":"Como tener catálogos de WhatsApp para nuestro negocio desde Cuba",
       "image":"https://raw.githubusercontent.com/rafacu-dev/remote-config/main/images/cat.png",
       "url":"https://www.youtube.com/watch?v=iLs2yx-Ki70"
