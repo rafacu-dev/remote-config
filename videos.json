@@ -1,11 +1,6 @@
 {
     "videos":[
       {
-      "name":"Ok",
-      "image":"https://raw.githubusercontent.com/rafacu-dev/remote-config/main/images/24horas.png",
-      "url":"https://www.youtube.com/watch?v=54yEF193HM0"
-      },
-      {
       "name":"24 horas conmigo 🍕🏃🏼‍♀️🛒 Shopping+Trabajo+Relax",
       "image":"https://raw.githubusercontent.com/rafacu-dev/remote-config/main/images/24horas.png",
       "url":"https://www.youtube.com/watch?v=54yEF193HM0"
