@@ -1,0 +1,26 @@
+Política de Privacidad
+
+Última actualización: 09/09/2024
+
+Gracias por utilizar nuestra aplicación. Nos tomamos muy en serio la privacidad y la seguridad de nuestros usuarios. Esta política de privacidad describe cómo gestionamos la información cuando usas nuestra aplicación.
+
+1. Información que No Recopilamos
+Nuestra aplicación no recopila, almacena ni procesa datos personales de los usuarios. No solicitamos, capturamos ni mantenemos ninguna información identificable, como nombres, correos electrónicos, ubicaciones o cualquier otro dato personal.
+
+2. Recopilación de Información a través de Web Scraping
+La aplicación obtiene y muestra datos a través de la técnica de web scraping desde fuentes externas. Estos datos son simplemente visualizados en la aplicación y no son almacenados ni utilizados de ninguna manera más allá de la visualización en tiempo real. No tenemos control sobre la exactitud, relevancia o actualización de los datos obtenidos.
+
+3. Publicidad
+Nuestra aplicación muestra anuncios proporcionados por redes de publicidad de terceros, como Google AdMob (o cualquier otra red de publicidad que utilices). Estas redes pueden recopilar datos anónimos sobre el uso de la aplicación, como las interacciones con los anuncios, para proporcionar anuncios relevantes. Estos datos no incluyen información identificable de los usuarios.
+
+Para obtener más información sobre cómo las redes publicitarias recopilan y utilizan los datos, te recomendamos revisar las políticas de privacidad de estas redes de publicidad.
+
+4. Enlaces a Sitios Web de Terceros
+La aplicación puede contener enlaces a otros sitios web que no son operados por nosotros. No tenemos control sobre el contenido, las políticas de privacidad o las prácticas de los sitios de terceros y no somos responsables de ellas. Te recomendamos que revises las políticas de privacidad de cada sitio web que visites.
+
+5. Cambios en esta Política de Privacidad
+Podemos actualizar esta política de privacidad de vez en cuando. Cualquier cambio será publicado en esta página y entrará en vigor inmediatamente después de su publicación.
+
+6. Contacto
+Si tienes alguna pregunta o inquietud sobre esta política de privacidad, puedes contactarnos a través de: rafaproyectosfuturos@gmail.com
+
