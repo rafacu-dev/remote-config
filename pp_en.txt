@@ -1,0 +1,25 @@
+Privacy Policy
+
+Last updated: 09/09/2024
+
+Thank you for using our application. We take our users' privacy and security very seriously. This privacy policy describes how we handle information when you use our application.
+
+1. Information We Do Not Collect
+Our application does not collect, store, or process users' personal data. We do not request, capture, or maintain any identifiable information such as names, emails, locations, or any other personal data.
+
+2. Information Collection through Web Scraping
+The application obtains and displays data through web scraping from external sources. This data is simply displayed within the app and is not stored or used in any way beyond real-time visualization. We do not control the accuracy, relevance, or timeliness of the data obtained.
+
+3. Advertising
+Our application displays ads provided by third-party advertising networks, such as Google AdMob (or any other advertising network you use). These networks may collect anonymous data about app usage, such as interactions with ads, to provide relevant advertisements. This data does not include any identifiable user information.
+
+For more information on how advertising networks collect and use data, we recommend reviewing the privacy policies of these advertising networks.
+
+4. Links to Third-Party Websites
+The application may contain links to other websites that are not operated by us. We have no control over the content, privacy policies, or practices of third-party sites and are not responsible for them. We recommend reviewing the privacy policies of each website you visit.
+
+5. Changes to this Privacy Policy
+We may update this privacy policy from time to time. Any changes will be posted on this page and will take effect immediately upon publication.
+
+6. Contact
+If you have any questions or concerns about this privacy policy, you can contact us at: rafaproyectosfuturos@gmail.com
